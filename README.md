@@ -1,0 +1,1 @@
+# Bir nechta modellar orqali eng yaxshi MAE topildi
